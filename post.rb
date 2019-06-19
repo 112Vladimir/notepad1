@@ -20,6 +20,6 @@ class Post
   end
 
   def file_path
-    
+
   end
 end
